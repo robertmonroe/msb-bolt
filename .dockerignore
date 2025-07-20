@@ -1,0 +1,17 @@
+node_modules
+.git
+.env
+*.log
+.DS_Store
+.vscode
+.bolt
+README.md
+DEPLOYMENT.md
+test-server.js
+RAILWAY_*.md
+SIMPLE_*.md
+QUICK_*.md
+TROUBLESHOOTING.md
+dist/assets
+src
+public
